@@ -4,13 +4,9 @@ A student-only sublease marketplace for fast, verified housing matches.
 
 Find or post subleases using a .edu email only. No Facebook groups or Craigslist listings.
 
----
-
 ## Overview
 
 SubleaseU helps college students find and post subleases in one centralized platform with verified users and real-time matching.
-
----
 
 ## Features
 
@@ -21,55 +17,11 @@ SubleaseU helps college students find and post subleases in one centralized plat
 * Filters for price, location, and availability
 * Student-only marketplace
 
----
-
-## Platform
-
-* iOS
-* Android
-* Web (via Expo)
-
----
-
-## Target Users
-
-* College students looking for housing
-* Students subletting apartments or rooms
-* Students studying abroad or relocating
-
----
-
-## Problem
-
-Current subleasing options are fragmented and unreliable:
-
-* Group chats and Facebook groups are unorganized
-* Craigslist listings are often unsafe or outdated
-* Matching is slow and inefficient
-
----
-
-## Solution
-
-SubleaseU provides a centralized, verified marketplace designed specifically for students, improving speed, trust, and matching quality.
-
----
-
-## Safety
-
-* Verified .edu email access only
-* No anonymous posting
-* Reporting and moderation system
-
----
-
 ## Tech Stack (high level)
 
 * React Native (Expo)
 * Supabase backend
 * Real-time database and authentication
-
----
 
 ## Status
 
